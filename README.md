@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - [x] [The Complete Java Certification Course on /21/04/2020][certifications1]
 - [x] [Master Object Oriented Design in Java on 05/03/2020][certifications0]
 
-#### 📫 How to reach me: ... 🏡 [website][website] **|** 👔 [linkedin][linkedin] **|**
+#### 📫 How to reach me:
+🏡 [website][website] **|** 👔 [linkedin][linkedin] **|**
 
 [website]: http://cosmingherghe.dev
 [linkedin]: https://www.linkedin.com/in/cosmingherghe
