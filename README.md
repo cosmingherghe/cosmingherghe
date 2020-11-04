@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 🤔 I’m looking for help in securing a position as a software developer.
 
-#### 📫 How to reach me: ...
-🏡 [website][website] **|**
-👔 [linkedin][linkedin] **|**
+#### 📫 How to reach me: ... 🏡 [website][website] **|** 👔 [linkedin][linkedin] **|**
 
 [website]: http://cosmingherghe.dev
 [linkedin]: https://www.linkedin.com/in/cosmingherghe
