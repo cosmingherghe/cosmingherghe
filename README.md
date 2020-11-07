@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### My latest Udemy certifications added to my collection of skills that might bring value to your organization are:
 
-- [x] [Master Apache Spark - Hands On - on 11/07/2020][certifications3]
+- [x] [Master Apache Spark - Hands On - on 07/11/2020][certifications3]
 - [x] [Learn Spring 5, Boot 2, JPA, Thymeleaf, AOP, Web MVC, REST on 07/06/2020][certifications2]
 - [x] [The Complete Java Certification Course on /21/04/2020][certifications1]
 - [x] [Master Object Oriented Design in Java on 05/03/2020][certifications0]
