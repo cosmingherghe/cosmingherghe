@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 🤔 I’m looking for help in securing a position as a software developer.
 
 #### My latest Udemy certifications added to my collection of skills that might bring value to your organization are:
+
+- [x] [Master Apache Spark - Hands On - on 11/07/2020][certifications3]
 - [x] [Learn Spring 5, Boot 2, JPA, Thymeleaf, AOP, Web MVC, REST on 07/06/2020][certifications2]
 - [x] [The Complete Java Certification Course on /21/04/2020][certifications1]
 - [x] [Master Object Oriented Design in Java on 05/03/2020][certifications0]
@@ -33,3 +35,4 @@ Here are some ideas to get you started:
 [certifications0]: https://www.udemy.com/certificate/UC-1893f93c-79ba-4951-91f0-42663b3b11a9/
 [certifications1]: https://www.udemy.com/certificate/UC-0e7cc758-5a25-4c0a-9e83-887179a2f6e3/
 [certifications2]: https://www.udemy.com/certificate/UC-efac6559-0e31-4cf5-9b80-cda6ade47fc8/
+[certifications3]: https://www.udemy.com/certificate/UC-f1865020-abb2-4845-8a42-2eac77311e70/
