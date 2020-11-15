@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 ***
 
 #### 📫 How to reach me:
-🏡 [website][website] **|** 👔 [linkedin][linkedin] **|**
+🏡 [website][website] **|** 👔 [linkedin][linkedin] **|**  [email][email]  **|**
 
+[email]: mailto:hello@cosmingherghe.dev
 [website]: http://cosmingherghe.dev
 [linkedin]: https://www.linkedin.com/in/cosmingherghe
 [certifications0]: https://www.udemy.com/certificate/UC-1893f93c-79ba-4951-91f0-42663b3b11a9/
