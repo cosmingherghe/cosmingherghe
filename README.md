@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ***
 
 #### 📫 How to reach me:
-🏡 [website][website] **|** 👔 [linkedin][linkedin] **|**  [email][email]  **|**
+🏡 [website][website] **|** 👔 [linkedin][linkedin] **|**  📧 [email][email]  **|**
 
 [email]: mailto:hello@cosmingherghe.dev
 [website]: http://cosmingherghe.dev
