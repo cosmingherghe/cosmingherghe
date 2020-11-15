@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 - [x] [The Complete Java Certification Course on /21/04/2020][certifications1]
 - [x] [Master Object Oriented Design in Java on 05/03/2020][certifications0]
 
-***
+****
 
 #### 📫 How to reach me:
 🏡 [website][website] **|** 👔 [linkedin][linkedin] **|**  📧 [email][email]  **|**
 
-*** 
+****
 
 #### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
