@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 #### 📫 How to reach me:
 🏡 [website][website] **|** 👔 [linkedin][linkedin] **|**  📧 [email][email]  **|**
 
+***
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosminsoy&layout=compact)](https://github.com/cosminsoy/github-readme-stats)
+
+
+
 [email]: mailto:hello@cosmingherghe.dev
 [website]: http://cosmingherghe.dev
 [linkedin]: https://www.linkedin.com/in/cosmingherghe
