@@ -1,4 +1,4 @@
-##👋 Hi, I'm Cosmin
+## 👋 Hi, I'm Cosmin
 
 <!--
 **cosminsoy/cosminsoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
