@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ***
 
-## 🔧 Technologies & Tools
+#### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-ECLIPSE_STS-informational?style=flat&logo=eclipseide&logoColor=white&color=2bbc8a)
