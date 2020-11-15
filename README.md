@@ -32,10 +32,7 @@ Here are some ideas to get you started:
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosminsoy&layout=compact)](https://github.com/cosminsoy/github-readme-stats) 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cosminsoy)](https://github.com/cosminsoy/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosminsoy&layout=compact)](https://github.com/cosminsoy/github-readme-stats)
 
 ***
 
