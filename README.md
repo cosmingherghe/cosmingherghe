@@ -30,11 +30,7 @@ Here are some ideas to get you started:
 #### 📫 How to reach me:
 🏡 [website][website] **|** 👔 [linkedin][linkedin] **|**  📧 [email][email]  **|**
 
-***
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosminsoy&layout=compact)](https://github.com/cosminsoy/github-readme-stats)
-
-***
+*** 
 
 #### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
