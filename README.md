@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 💬 My solutions to different challenges or exercises
 - [x] [solutions][solutions0] for edabit.com challenges. Click [here][here0] for my profile on [Edabit][Edabit].
-- [x] [solutions][solutions1] to the Programming Exercises in Introduction to Java Programming, Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
+- [x] [solutions][solutions1] for [codingbat][codingbat].com challenges.
+- [x] [solutions][solutions2] to the Programming Exercises in Introduction to Java Programming, Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
 
 ****
 
@@ -60,4 +61,6 @@ Here are some ideas to get you started:
 [solutions0]: https://github.com/cosminsoy/My-solved--Exercises/tree/introduction-to-java-programming-comprehensive-10th-edition/edabit.com/
 [here0]: https://edabit.com/user/8rdMi4w9io7yeo3Qc/
 [Edabit]: https://edabit.com/user/8rdMi4w9io7yeo3Qc/
-[solutions1]: https://github.com/cosminsoy/My-solved--Exercises/tree/introduction-to-java-programming-comprehensive-10th-edition/introduction-to-java-programming-comprehensive-10/
+[solutions1]: https://github.com/cosminsoy/My-solved--Exercises/tree/introduction-to-java-programming-comprehensive-10th-edition/codingbat/
+[codingbat]: https://codingbat.com/
+[solutions2]: https://github.com/cosminsoy/My-solved--Exercises/tree/introduction-to-java-programming-comprehensive-10th-edition/introduction-to-java-programming-comprehensive-10/
