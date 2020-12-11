@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 
 ****
 
+💬 My solutions to different challenges or exercises
+- [x] [solutions][solutions0] for edabit.com challenges. Click [here][here0] for my profile on [Edabit][Edabit].
+- [x] [solutions][solutions1] to the Programming Exercises in Introduction to Java Programming, Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
+
+****
+
 #### 📫 How to reach me:
 🏡 [website][website] **|** 👔 [linkedin][linkedin] **|**  📧 [email][email]  **|**
 
@@ -50,3 +56,8 @@ Here are some ideas to get you started:
 [certifications1]: https://www.udemy.com/certificate/UC-0e7cc758-5a25-4c0a-9e83-887179a2f6e3/
 [certifications2]: https://www.udemy.com/certificate/UC-efac6559-0e31-4cf5-9b80-cda6ade47fc8/
 [certifications3]: https://www.udemy.com/certificate/UC-f1865020-abb2-4845-8a42-2eac77311e70/
+
+[solutions0]: https://github.com/cosminsoy/My-solved--Exercises/tree/introduction-to-java-programming-comprehensive-10th-edition/edabit.com/
+[here0]: https://edabit.com/user/8rdMi4w9io7yeo3Qc/
+[Edabit]: https://edabit.com/user/8rdMi4w9io7yeo3Qc/
+[solutions1]: https://github.com/cosminsoy/My-solved--Exercises/tree/introduction-to-java-programming-comprehensive-10th-edition/introduction-to-java-programming-comprehensive-10/
