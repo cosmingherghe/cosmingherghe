@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 [solutions0]: https://github.com/cosminsoy/My-solved--Exercises/new/introduction-to-java-programming-comprehensive-10th-edition/codewars.com/
 [here0]: https://www.codewars.com/users/cosminsoy/completed_solutions/
+[CodeWars]: https://www.codewars.com/
 [solutions1]: https://github.com/cosminsoy/My-solved--Exercises/tree/introduction-to-java-programming-comprehensive-10th-edition/edabit.com/
 [here1]: https://edabit.com/user/8rdMi4w9io7yeo3Qc/
 [Edabit]: https://edabit.com/user/8rdMi4w9io7yeo3Qc/
