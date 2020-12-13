@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 ****
 
 💬 My solutions to different challenges or exercises
-- [x] [solutions][solutions0] for edabit.com challenges. Click [here][here0] for my profile on [Edabit][Edabit].
-- [x] [solutions][solutions1] for [codingbat][codingbat].com challenges.
-- [x] [solutions][solutions2] to the Programming Exercises in Introduction to Java Programming, Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
+- [x] [solutions][solutions0] for codewars.com challenges. Click [here][here0] for my profile on [CodeWars][CodeWars].
+- [x] [solutions][solutions1] for edabit.com challenges. Click [here][here1] for my profile on [Edabit][Edabit].
+- [x] [solutions][solutions2] for [codingbat][codingbat].com challenges.
+- [x] [solutions][solutions3] to the Programming Exercises in Introduction to Java Programming, Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
 
 ****
 
@@ -58,9 +59,11 @@ Here are some ideas to get you started:
 [certifications2]: https://www.udemy.com/certificate/UC-efac6559-0e31-4cf5-9b80-cda6ade47fc8/
 [certifications3]: https://www.udemy.com/certificate/UC-f1865020-abb2-4845-8a42-2eac77311e70/
 
-[solutions0]: https://github.com/cosminsoy/My-solved--Exercises/tree/introduction-to-java-programming-comprehensive-10th-edition/edabit.com/
-[here0]: https://edabit.com/user/8rdMi4w9io7yeo3Qc/
+[solutions0]: https://github.com/cosminsoy/My-solved--Exercises/new/introduction-to-java-programming-comprehensive-10th-edition/codewars.com/
+[here0]: https://www.codewars.com/users/cosminsoy/completed_solutions/
+[solutions1]: https://github.com/cosminsoy/My-solved--Exercises/tree/introduction-to-java-programming-comprehensive-10th-edition/edabit.com/
+[here1]: https://edabit.com/user/8rdMi4w9io7yeo3Qc/
 [Edabit]: https://edabit.com/user/8rdMi4w9io7yeo3Qc/
-[solutions1]: https://github.com/cosminsoy/My-solved--Exercises/tree/introduction-to-java-programming-comprehensive-10th-edition/codingbat/
+[solutions2]: https://github.com/cosminsoy/My-solved--Exercises/tree/introduction-to-java-programming-comprehensive-10th-edition/codingbat/
 [codingbat]: https://codingbat.com/
-[solutions2]: https://github.com/cosminsoy/My-solved--Exercises/tree/introduction-to-java-programming-comprehensive-10th-edition/introduction-to-java-programming-comprehensive-10/
+[solutions3]: https://github.com/cosminsoy/My-solved--Exercises/tree/introduction-to-java-programming-comprehensive-10th-edition/introduction-to-java-programming-comprehensive-10/
