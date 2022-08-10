@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 [email]: mailto:hello@cosmingherghe.dev
-[website]: http://cosmingherghe.dev
+[website]: http://www.cosmingherghe.dev
 [linkedin]: https://www.linkedin.com/in/cosmingherghe
 [certifications0]: https://www.udemy.com/certificate/UC-1893f93c-79ba-4951-91f0-42663b3b11a9/
 [certifications1]: https://www.udemy.com/certificate/UC-0e7cc758-5a25-4c0a-9e83-887179a2f6e3/
