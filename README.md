@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 #### My latest Udemy certifications added to my collection of skills that might bring value to your organization are:
 
-- [x] [Docker][certifications5]
-- [x] [Jenkins - CI/CD on 12/08/2020][certifications4]
+- [x] [Docker on 18/08/2022][certifications5]
+- [x] [Jenkins - CI/CD on 12/08/2022][certifications4]
 - [x] [Master Apache Spark - Hands On - on 07/11/2020][certifications3]
 - [x] [Learn Spring 5, Boot 2, JPA, Thymeleaf, AOP, Web MVC, REST on 07/06/2020][certifications2]
 - [x] [The Complete Java Certification Course on /21/04/2020][certifications1]
