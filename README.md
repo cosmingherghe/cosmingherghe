@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 #### I have always been passionate about computers 💻, both the hardware and the software, however personal circumstances early in my career forced me to pursue employment in other areas. The financial stability offered by my current role has allowed me to pursue my interest for IT and to further develop my existing knowledge. I have actively done this by using my spare time for online courses on eLearning sites, such us Udemy 💽, getting up to date with current best practices and reading software development 📚 books; all with the aim of switching careers.
 
 #### After few years of on and off studying, browsing, watching tutorials, and building projects, on 1st of February 2021, I accepted my first job offer as an Application Developer Engineer with a great company. This is my dream job. Accomplishing this dream was not easy, there were moments of doubt and seemingly insurmountable challenges, but in the end, I am smiling looking back.
 
 #### If you don't have your dream job yet, take it one day at a time, and improve a little bit each day... get armed with lots of patience and persistence… good luck in your journey!
- 
+-->
 
 #### My latest Udemy certifications added to my collection of skills that might bring value to your organization are:
 
