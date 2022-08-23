@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 #### My latest Udemy certifications added to my collection of skills that might bring value to your organization are:
 
+- [x] [Docker][certifications5]
+- [x] [Jenkins - CI/CD on 12/08/2020][certifications4]
 - [x] [Master Apache Spark - Hands On - on 07/11/2020][certifications3]
 - [x] [Learn Spring 5, Boot 2, JPA, Thymeleaf, AOP, Web MVC, REST on 07/06/2020][certifications2]
 - [x] [The Complete Java Certification Course on /21/04/2020][certifications1]
@@ -57,6 +59,8 @@ Here are some ideas to get you started:
 [email]: mailto:hello@cosmingherghe.dev
 [website]: http://www.cosmingherghe.dev
 [linkedin]: https://www.linkedin.com/in/cosmingherghe
+[certifications5]: https://www.udemy.com/certificate/UC-9babe9aa-8cad-4c9a-8049-3982b1c3d173/
+[certifications4]: https://www.udemy.com/certificate/UC-df441ebc-78a9-4f26-9c7d-5846d7baa527/
 [certifications0]: https://www.udemy.com/certificate/UC-1893f93c-79ba-4951-91f0-42663b3b11a9/
 [certifications1]: https://www.udemy.com/certificate/UC-0e7cc758-5a25-4c0a-9e83-887179a2f6e3/
 [certifications2]: https://www.udemy.com/certificate/UC-efac6559-0e31-4cf5-9b80-cda6ade47fc8/
