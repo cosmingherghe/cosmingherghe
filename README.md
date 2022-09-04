@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 #### My latest Udemy certifications added to my collection of skills that might bring value to your organization are:
 
+- [x] [Oracle SQL on 04/09/2022][certifications6]
 - [x] [Docker on 18/08/2022][certifications5]
 - [x] [Jenkins - CI/CD on 12/08/2022][certifications4]
 - [x] [Master Apache Spark - Hands On - on 07/11/2020][certifications3]
@@ -59,6 +60,7 @@ Here are some ideas to get you started:
 [email]: mailto:hello@cosmingherghe.dev
 [website]: http://www.cosmingherghe.dev
 [linkedin]: https://www.linkedin.com/in/cosmingherghe
+[certifications6]: https://www.udemy.com/certificate/UC-28f6707a-8d2a-40f1-bacd-a7a8e9dfa8dc/
 [certifications5]: https://www.udemy.com/certificate/UC-9babe9aa-8cad-4c9a-8049-3982b1c3d173/
 [certifications4]: https://www.udemy.com/certificate/UC-df441ebc-78a9-4f26-9c7d-5846d7baa527/
 [certifications0]: https://www.udemy.com/certificate/UC-1893f93c-79ba-4951-91f0-42663b3b11a9/
