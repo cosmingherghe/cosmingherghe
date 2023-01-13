@@ -1,5 +1,11 @@
 ## 👋 Hi, I'm Cosmin
 
+👀 I’m interested in Java, JavaScript, Spring & Spring Boot, microservices and Kubernetes
+🌱 I’m currently learning Security and JavaScript
+💞️ I’m looking for my next chalange/job
+📫 How to reach me - hello at cosmingherghe.dev
+
+
 <!--
 **cosminsoy/cosminsoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
