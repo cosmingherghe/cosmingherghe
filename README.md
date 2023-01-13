@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Cosmin
 
-👀 I’m interested in Java, JavaScript, Spring & Spring Boot, microservices and Kubernetes
-🌱 I’m currently learning Security and JavaScript
-💞️ I’m looking for my next chalange/job
-📫 How to reach me - hello at cosmingherghe.dev
+👀 I’m interested in Java, JavaScript, Spring & Spring Boot, microservices and Kubernetes  
+🌱 I’m currently learning Security and JavaScript  
+💞️ I’m looking for my next chalange/job  
+📫 How to reach me - hello at cosmingherghe.dev  
 
 
 <!--
