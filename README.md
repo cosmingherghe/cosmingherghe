@@ -2,7 +2,7 @@
 
 💞️ I’m actively looking for my next chalange/job  
 👀 I’m interested in Java, JavaScript, Spring & Spring Boot, microservices and Kubernetes  
-🌱 I’m currently learning Security and JavaScript while working on my personal project    
+🌱 I’m currently learning Security and Microservices while working on my personal project    
 📫 How to reach me - hello at cosmingherghe.dev  
 
 
