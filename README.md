@@ -4,9 +4,8 @@
 💞️ I’m actively looking for my next chalange 
 👀 I’m interested in Java, Angular, Spring & Spring Boot, microservices and Kubernetes  
 🌱 I’m currently learning React and Microservices while working on my personal project 
--->
 📫 How to reach me at "hello at cosmingherghe.dev"  
-
+-->
 
 #### My latest Udemy certifications 
 <!--
