@@ -1,5 +1,5 @@
-## 👋 Hi there, I’m Cosmin!
-I'm a passionate software developer with a strong focus on cloud security and infrastructure as code. I enjoy solving complex problems and building robust, scalable solutions.
+## 👋 Hi there, I’m Cosmin!  
+I'm a passionate software developer with 2 years of experience working as an Application Developer in the DevOps department. I enjoy solving complex problems and building robust, scalable solutions.
 
 💼 Professional Collaboration  
 I am open to collaborating on projects related to these areas during my free time. If you have interesting open-source projects or discussions, feel free to reach out!
