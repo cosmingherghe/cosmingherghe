@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Cosmin
 
-💼 Professional Collaboration
+💼 Professional Collaboration  
 I am passionate about software development, cloud security, and infrastructure as code. While my primary focus is my full-time role, I am open to collaborating on projects related to these areas during my free time. If you have interesting open-source projects or discussions, feel free to reach out!
 
 <!--
