@@ -5,6 +5,9 @@
 I am passionate about software development, cloud security, and infrastructure as code. While my primary focus is my full-time role, I am open to collaborating on projects related to these areas during my free time. If you have interesting open-source projects or discussions, feel free to reach out!
 
 You can find more about my professional background in my [CV](https://drive.google.com/file/d/1HB6UK0mPCQgSN3nTMYQlAyGynh4cXZ8y/view).
+
+🌎 I’m currently building my personal website, cosmingherghe.dev, where I’ll be showcasing a timeline of my CV and the projects I’ve worked on. Stay tuned for updates!
+
 <!--
 💞️ I’m actively looking for my next chalange 
 👀 I’m interested in Java, Angular, Spring & Spring Boot, microservices and Kubernetes  
