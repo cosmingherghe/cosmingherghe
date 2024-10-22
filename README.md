@@ -8,18 +8,26 @@ You can find more about my professional background in my [CV](https://drive.goog
 
 🌎 I’m currently building my personal website, cosmingherghe.dev, where I’ll be showcasing a timeline of my CV and the projects I’ve worked on. Stay tuned for updates!
 
+## Support
+
+If you've enjoyed my projects or found them useful, you can support my work by buying me a beer! 🍺
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/cosminsoy)
+
+Every little bit helps, and your support keeps me motivated to continue building awesome projects. Thank you!
+
 <!--
 💞️ I’m actively looking for my next chalange 
 👀 I’m interested in Java, Angular, Spring & Spring Boot, microservices and Kubernetes  
 🌱 I’m currently learning React and Microservices while working on my personal project 
 📫 How to reach me at "hello at cosmingherghe.dev"  
--->
+ 
 
 #### My latest Udemy certifications 
-<!--
+ 
 
 #added to my collection of skills that might bring value to your organization are:
--->
+
 
 
 - [x] [Oracle SQL on 04/09/2022][certifications6]
@@ -29,7 +37,7 @@ You can find more about my professional background in my [CV](https://drive.goog
 - [x] [Learn Spring 5, Boot 2, JPA, Thymeleaf, AOP, Web MVC, REST on 07/06/2020][certifications2]
 - [x] [The Complete Java Certification Course on /21/04/2020][certifications1]
 - [x] [Master Object Oriented Design in Java on 05/03/2020][certifications0]
-
+-->
 ****
 
 <!--
