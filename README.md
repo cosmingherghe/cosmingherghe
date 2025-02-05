@@ -1,5 +1,5 @@
 ## 👋 Hi there, I’m Cosmin!  
-I'm a passionate software developer with 2 years of experience working as an Application Developer in the DevOps department. I enjoy solving complex problems and building robust, scalable solutions.
+I'm a passionate DevOps Engineer with a strong Java background and hands-on experience in cloud technologies. Skilled in CI/CD, automation, and deployments, ensuring smooth and efficient workflows. Passionate about optimizing infrastructure and collaborating with teams to drive continuous improvement.
 
 💼 Professional Collaboration  
 I am open to collaborating on projects related to these areas during my free time. If you have interesting open-source projects or discussions, feel free to reach out!
