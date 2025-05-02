@@ -6,7 +6,7 @@ I am open to collaborating on projects related to these areas during my free tim
 
 You can find more about my professional background in my [CV](https://drive.google.com/file/d/1HB6UK0mPCQgSN3nTMYQlAyGynh4cXZ8y/view).
 
-🌎 I’m currently building my personal website, cosmingherghe.dev, where I’ll be showcasing a timeline of my CV and the projects I’ve worked on. Stay tuned for updates!
+🌎 I’m currently building my personal website, gherghe.dev, where I’ll be showcasing a timeline of my CV and the projects I’ve worked on. Stay tuned for updates!
 
 ## Support
 
