@@ -84,8 +84,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 
-[email]: mailto:hello@cosmingherghe.dev
-[website]: http://www.cosmingherghe.dev
+[email]: mailto:cosmin@gherghe.dev
+[website]: http://www.gherghe.dev
 [linkedin]: https://www.linkedin.com/in/cosmingherghe
 [certifications6]: https://www.udemy.com/certificate/UC-28f6707a-8d2a-40f1-bacd-a7a8e9dfa8dc/
 [certifications5]: https://www.udemy.com/certificate/UC-9babe9aa-8cad-4c9a-8049-3982b1c3d173/
