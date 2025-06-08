@@ -1,13 +1,32 @@
-## 👋 Hi there, I’m Cosmin!  
-I'm a passionate DevOps Engineer with a strong Java background and hands-on experience in cloud technologies. Skilled in CI/CD, automation, and deployments, ensuring smooth and efficient workflows. Passionate about optimizing infrastructure and collaborating with teams to drive continuous improvement.
+### 👋 Hi, I’m Cosmin — DevOps Engineer
 
-💼 Professional Collaboration  
-I am open to collaborating on projects related to these areas during my free time. If you have interesting open-source projects or discussions, feel free to reach out!
+I'm a DevOps Engineer with a strong foundation in Java and hands-on experience in cloud technologies like Azure and AWS. I specialize in CI/CD pipelines, infrastructure automation, and application deployments—helping teams ship faster, safer, and more reliably.
 
-You can find more about my professional background in my [CV](https://www.gherghe.dev/assets/resume/Cosmin_ResumeCV.pdf).
+---
 
-🌎 I’m currently building my personal website, gherghe.dev, where I’ll be showcasing a timeline of my CV and the projects I’ve worked on. Stay tuned for updates!
+### 💼 What I Bring
 
+* 2+ years of experience in DevOps and software development
+* Skilled in Azure DevOps, Jenkins, Docker, Git, and scripting (PowerShell, Bash, Python)
+* Strong background in CI/CD, infrastructure as code, and cloud platforms
+* Currently preparing for the AZ-400 and Terraform Associate certifications
+
+---
+
+### 🌐 Personal Website
+
+You can visit my personal site at [**gherghe.dev**](https://gherghe.dev), where I’ve published information about my background, technical skills, and what drives me professionally.
+Project details will be added soon — stay tuned!
+
+---
+
+### 🤝 Let's Connect
+
+I'm open to new full-time opportunities and collaborative DevOps projects.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/cosmingherghe/) or email me at [cosmin@gherghe.dev](mailto:cosmin@gherghe.dev).
+ 
+
+  
 ## Support
 
 If you've enjoyed my projects or found them useful, you can support my work by buying me a beer! 🍺
