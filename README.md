@@ -15,7 +15,7 @@ I'm a DevOps Engineer with a strong foundation in Java and hands-on experience i
 
 ### 🌐 Personal Website
 
-You can visit my personal site at [**gherghe.dev**](https://gherghe.dev), where I’ve published information about my background, technical skills, and what drives me professionally.
+You can visit my personal site at [**gherghe.dev**](https://www.gherghe.dev), where I’ve published information about my background, technical skills, and what drives me professionally.
 Project details will be added soon — stay tuned!
 
 ---
