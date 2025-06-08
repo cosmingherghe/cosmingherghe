@@ -4,7 +4,7 @@ I'm a passionate DevOps Engineer with a strong Java background and hands-on expe
 💼 Professional Collaboration  
 I am open to collaborating on projects related to these areas during my free time. If you have interesting open-source projects or discussions, feel free to reach out!
 
-You can find more about my professional background in my [CV](https://www.gherghe.dev/Cosmin_ResumeCV.pdf).
+You can find more about my professional background in my [CV](https://www.gherghe.dev/assets/resume/Cosmin_ResumeCV.pdf).
 
 🌎 I’m currently building my personal website, gherghe.dev, where I’ll be showcasing a timeline of my CV and the projects I’ve worked on. Stay tuned for updates!
 
