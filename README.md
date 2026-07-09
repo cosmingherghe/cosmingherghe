@@ -1,43 +1,114 @@
 # 👋 Hi, I'm Cosmin
 
-I'm a **DevOps Engineer** passionate about cloud infrastructure, automation, and AI-assisted software engineering. I build scalable CI/CD platforms, automate developer workflows, and explore how modern AI tools can improve software delivery and engineering productivity.
+I'm a **DevOps Engineer** passionate about cloud infrastructure, automation, and AI-assisted software engineering.
 
-## 🚀 What I Work With
-
-* Azure DevOps, GitHub Actions & Jenkins
-* AWS & Azure Cloud
-* Terraform & Infrastructure as Code
-* Docker & Containerized Applications
-* PowerShell, Bash, Python & Java
-* SonarQube, JFrog Artifactory & Git
-* AI Engineering using OpenCode, Hermes, GPT & Claude
-
-## 🌱 Currently Learning
-
-* AI Agents & Agentic Workflows
-* Terraform Associate Certification
-* AWS Cloud Architecture
-* Modern AI-assisted Development Workflows
-
-## 🛠 Current Projects
-
-* AWS Infrastructure with Terraform
-* AI-powered development workflows
-* DevOps automation and CI/CD pipelines
-* Cloud-native applications and developer platforms
-
-## 🌐 Website
-
-Visit **https://gherghe.dev** to learn more about my background, technical skills, and projects.
-
-## 🤝 Let's Connect
-
-I'm always interested in DevOps, Platform Engineering, Cloud Infrastructure, and AI Engineering opportunities.
-
-* 🌐 https://gherghe.dev
-* 💼 https://linkedin.com/in/cosmingherghe
-* 📧 [cosmin@gherghe.dev](mailto:cosmin@gherghe.dev)
+I enjoy building scalable CI/CD platforms, automating developer workflows, and exploring how AI agents can improve software engineering productivity.
 
 ---
 
-> *Automating today's infrastructure while exploring tomorrow's AI-powered engineering.*
+## 🚀 What I Work With
+
+### ☁️ Cloud & DevOps
+- Azure DevOps
+- AWS
+- Jenkins
+- GitHub Actions
+- Terraform
+- Docker
+- SonarQube
+- JFrog Artifactory
+
+### 💻 Programming & Scripting
+- Java
+- Python
+- PowerShell
+- Bash
+- SQL
+
+### 🛠 Development
+- Spring Boot
+- REST APIs
+- Git & GitHub
+
+### 🤖 AI Engineering
+- OpenCode
+- Hermes
+- GPT
+- Claude
+- AI-assisted Development
+- Agentic Workflows
+
+---
+
+## 🎯 Current Focus
+
+- Building scalable CI/CD pipelines
+- Infrastructure as Code with Terraform
+- Cloud-native applications on AWS & Azure
+- AI-powered developer workflows
+- Platform Engineering
+- AI Agents & MCP
+
+---
+
+## 🚀 Featured Projects
+
+### ☁️ AWS PDF Generator
+Serverless AWS architecture built with Terraform.
+
+### 🤱 Pregnancy App
+Modern cross-platform application for expectant parents.
+
+### 📧 Mail MCP
+Model Context Protocol server for Gmail integrations.
+
+### ⚙️ DevOps Lab
+Personal infrastructure for experimenting with Azure DevOps, Jenkins, Docker, Terraform and cloud automation.
+
+More projects are available on my repositories, with additional ones coming soon.
+
+---
+
+## 📚 Currently Learning
+
+- Terraform Associate
+- AWS Cloud Architecture
+- Kubernetes
+- AI Agents
+- MCP Servers
+- LLM Application Development
+
+---
+
+## 🌐 Website
+
+Visit **https://gherghe.dev**
+
+There you'll find:
+- Professional background
+- Technical skills
+- Resume
+- Projects
+- Blog (coming soon)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmingherghe&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmingherghe&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+🌐 Website: https://gherghe.dev
+
+💼 LinkedIn: https://linkedin.com/in/cosmingherghe
+
+📧 Email: cosmin@gherghe.dev
+
+---
+
+> *Automating today's infrastructure while building tomorrow's AI-powered engineering workflows.*
