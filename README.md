@@ -91,7 +91,7 @@ More projects are available across my repositories.
 
 ## 🌐 Portfolio
 
-**https://gherghe.dev**
+**https://www.gherghe.dev**
 
 Professional experience, technical skills, projects, and resume.
 
