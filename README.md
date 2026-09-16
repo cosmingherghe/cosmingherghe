@@ -1,99 +1,103 @@
 # 👋 Hi, I'm Cosmin
 
-I'm a **DevOps Engineer** passionate about cloud infrastructure, automation, and AI-assisted software engineering.
+I'm a **DevOps & Platform Engineer** focused on cloud infrastructure, automation, CI/CD, and AI-assisted software engineering.
 
-I enjoy building scalable CI/CD platforms, automating developer workflows, and exploring how AI agents can improve software engineering productivity.
+I enjoy building reliable delivery platforms, automating developer workflows, and exploring how **AI agents, MCP, and LLM-powered tooling** can improve software delivery and engineering productivity.
 
 ---
 
-## 🚀 What I Work With
+## 🚀 Core Technologies
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Platform Engineering
 - Azure DevOps
 - AWS
-- Jenkins
-- GitHub Actions
 - Terraform
 - Docker
-- SonarQube
+- Jenkins
+- GitHub Actions
 - JFrog Artifactory
+- SonarQube
 
-### 💻 Programming & Scripting
-- Java
-- Python
+### ⚙️ Automation & CI/CD
+- CI/CD Pipeline Engineering
+- Infrastructure as Code
 - PowerShell
+- Python
 - Bash
-- SQL
-
-### 🛠 Development
-- Spring Boot
-- REST APIs
 - Git & GitHub
 
+### 💻 Software Engineering
+- Java
+- Spring Boot
+- REST APIs
+- SQL
+- PostgreSQL
+- MongoDB
+
 ### 🤖 AI Engineering
+- OpenAI / GPT
+- Claude
 - OpenCode
 - Hermes
-- GPT
-- Claude
-- AI-assisted Development
+- Model Context Protocol (MCP)
+- AI Agents
 - Agentic Workflows
+- AI-assisted Software Development
 
 ---
 
 ## 🎯 Current Focus
 
-- Building scalable CI/CD pipelines
-- Infrastructure as Code with Terraform
-- Cloud-native applications on AWS & Azure
-- AI-powered developer workflows
 - Platform Engineering
+- Cloud Infrastructure on AWS & Azure
+- Infrastructure as Code with Terraform
+- CI/CD Automation
+- Kubernetes
+- AI-powered Developer Workflows
 - AI Agents & MCP
+- AI Infrastructure
 
 ---
 
 ## 🚀 Featured Projects
 
-### ☁️ AWS PDF Generator
-Serverless AWS architecture built with Terraform.
-
-### 🤱 Pregnancy App
-Modern cross-platform application for expectant parents.
-
 ### 📧 Mail MCP
-Model Context Protocol server for Gmail integrations.
+MCP server for integrating AI agents with Gmail workflows.
+
+### ☁️ AWS PDF Generator
+Serverless AWS infrastructure built using Terraform.
 
 ### ⚙️ DevOps Lab
-Personal infrastructure for experimenting with Azure DevOps, Jenkins, Docker, Terraform and cloud automation.
+Personal infrastructure environment for experimenting with Jenkins, Docker, Terraform, monitoring, cloud automation, and CI/CD.
 
-More projects are available on my repositories, with additional ones coming soon.
+### 🤱 Pregnancy App
+Cross-platform application built to explore modern application development and cloud integration.
+
+More projects are available across my repositories.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
-- Terraform Associate
-- AWS Cloud Architecture
 - Kubernetes
+- Advanced Terraform
+- AWS Cloud Architecture
 - AI Agents
 - MCP Servers
 - LLM Application Development
+- AI Infrastructure & Platform Engineering
 
 ---
 
-## 🌐 Website
+## 🌐 Portfolio
 
-Visit **https://gherghe.dev**
+**https://gherghe.dev**
 
-There you'll find:
-- Professional background
-- Technical skills
-- Resume
-- Projects
-- Blog (coming soon)
+Professional experience, technical skills, projects, and resume.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmingherghe&show_icons=true&count_private=true)
 
@@ -101,14 +105,12 @@ There you'll find:
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-🌐 Website: https://gherghe.dev
-
-💼 LinkedIn: https://linkedin.com/in/cosmingherghe
-
-📧 Email: cosmin@gherghe.dev
+🌐 https://www.gherghe.dev  
+💼 https://linkedin.com/in/cosmingherghe  
+📧 cosmin@gherghe.dev
 
 ---
 
-> *Automating today's infrastructure while building tomorrow's AI-powered engineering workflows.*
+> *Building reliable cloud platforms today while exploring the AI-powered software engineering workflows of tomorrow.*
